@@ -1,13 +1,13 @@
 {
  "author" : "Samiur Arif",
- "name":  "censorify",
+ "name":  "censorify_arif",
  "version" : "0.1.2",
  "description": "Censors words out of text",
  "main" : "censortext",
  "dependencies" : {},
  "repository":{
   "type" : "git",
-  "url" : "https://github.com/tcl00taco/nodebook/"
+  "url" : "https://github.com/tcl00taco/censorify"
  },
  "keywords":[
    "censor",
